@@ -1,4 +1,4 @@
-# CM for Meizu MX4 Ubuntu Edition
+# CM for Meizu MX4
 
 This is the local manifest for building; just clone into `.repo/local_manifests`
 and you should be all set.
